@@ -23,23 +23,22 @@ dynamics of a new market.
 https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link
 
 ## Key components to be fulfilled:
-1. Loading and Preprocessing (5 marks): Load the dataset and perform necessary preprocessing
+1. Loading and Preprocessing: Load the dataset and perform necessary preprocessing
 steps.
-2. Model Implementation (10 marks): Implement the following five regression algorithms:
+2. Model Implementation: Implement the following five regression algorithms:
 ● Linear Regression
 ● Decision Tree Regressor
 ● Random Forest Regressor
 ● Gradient Boosting Regressor
 ● Support Vector Regressor
-3. Model Evaluation (5 marks): Compare the performance of all the models based on R-squared,
+3. Model Evaluation: Compare the performance of all the models based on R-squared,
 Mean Squared Error (MSE), and Mean Absolute Error (MAE). Identify the best performing model
 and justify why it is the best.
-4. Feature Importance Analysis (2 marks): Identify the significant variables affecting car prices
+4. Feature Importance Analysis: Identify the significant variables affecting car prices
 (feature selection)
-5. Hyperparameter Tuning (2 marks): Perform hyperparameter tuning and check whether the
+5. Hyperparameter Tuning: Perform hyperparameter tuning and check whether the
 performance of the model has increased.
-6. Timely Submission (1 mark) Submission Guidelines: - Provide your code in a Jupyter Notebook
+6. Timely Submission Submission Guidelines: - Provide your code in a Jupyter Notebook
 format and submit the GitHub link here. - Ensure your explanations and answers are clear and
 concise.
 
-Total Score: 25
